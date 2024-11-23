@@ -1,0 +1,13 @@
+.image {
+  width: 120px;
+  height: 120px;
+  aspect-ratio: 1;
+  flex-shrink: 0;
+}
+
+.content {
+  color: var(--font-color);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+}
